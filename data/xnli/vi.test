@@ -1,0 +1,100 @@
+premise	hypo	label
+Vâng , tôi thậm chí không nghĩ về điều đó , nhưng tôi đã rất thất vọng , và , tôi lại nói chuyện với anh ta lần nữa .	Tôi đã không nói chuyện với anh ta nữa .	contradiction
+Vâng , tôi thậm chí không nghĩ về điều đó , nhưng tôi đã rất thất vọng , và , tôi lại nói chuyện với anh ta lần nữa .	Tôi buồn tới mức tôi lại bắt đầu nói chuyện lại với anh ta .	entailment
+Vâng , tôi thậm chí không nghĩ về điều đó , nhưng tôi đã rất thất vọng , và , tôi lại nói chuyện với anh ta lần nữa .	Chúng tôi có buổi nói chuyện tuyệt vời .	neutral
+Và tôi nghĩ đó là một đặc ân , và nó vẫn còn , nó vẫn là , tôi là chín hai hai Ex-O là lĩnh vực nghề nghiệp không quân AFFC của tôi .	Tôi không nhận ra rằng tôi không phải là người duy nhất ở trong sân ngày hôm đó .	neutral
+Và tôi nghĩ đó là một đặc ân , và nó vẫn còn , nó vẫn là , tôi là chín hai hai Ex-O là lĩnh vực nghề nghiệp không quân AFFC của tôi .	Tôi có ấn tượng là tôi là người duy nhất có số đó ở lĩnh vực Không quân AFFC .	entailment
+Và tôi nghĩ đó là một đặc ân , và nó vẫn còn , nó vẫn là , tôi là chín hai hai Ex-O là lĩnh vực nghề nghiệp không quân AFFC của tôi .	Tất cả chúng ta đều được cung cấp cùng một con số chính xác bất kể chúng ta được hứa được hưởng những đặc quyền nào , nó là một lời nói dối .	contradiction
+Họ nói với tôi rằng , ừ , rằng tôi sẽ được gọi bởi một chàng trai vào cuối cùng để gặp nhau .	Tôi chưa bao giờ nói gì về việc gặp ai cả .	contradiction
+Họ nói với tôi rằng , ừ , rằng tôi sẽ được gọi bởi một chàng trai vào cuối cùng để gặp nhau .	Tôi được báo rằng sẽ có một người được gọi vào để tôi gặp .	entailment
+Họ nói với tôi rằng , ừ , rằng tôi sẽ được gọi bởi một chàng trai vào cuối cùng để gặp nhau .	Anh chàng xuất hiện muộn một chút .	neutral
+Có rất nhiều điều bạn có thể nói mà tôi sẽ chỉ bỏ qua điều đó thôi .	Tôi muốn nói với bạn tất cả mọi thứ tôi biết về điều đó !	contradiction
+Có rất nhiều điều bạn có thể nói mà tôi sẽ chỉ bỏ qua điều đó thôi .	Tôi sẽ không nói về điều đó , mặc dù có rất nhiều thứ phảinói .	entailment
+Có rất nhiều điều bạn có thể nói mà tôi sẽ chỉ bỏ qua điều đó thôi .	Tôi sẽ không nói về lịch sử của thành phố vì có quá nhiều điều để nói .	neutral
+Đó là thứ đầu tiên chúng tôi muốn giữ lại vì không có cách nào để ném một quả bom nhiệt hạch nặng 20 triệu tấn xuống từ máy bay C124 , 30 cả .	Chúng tôi không quan tâm đến việc tiết kiệm bất cứ thứ gì .	contradiction
+Đó là thứ đầu tiên chúng tôi muốn giữ lại vì không có cách nào để ném một quả bom nhiệt hạch nặng 20 triệu tấn xuống từ máy bay C124 , 30 cả .	Chúng tôi muốn tiết kiệm một thứ nhiều hơn phần còn lại .	entailment
+Đó là thứ đầu tiên chúng tôi muốn giữ lại vì không có cách nào để ném một quả bom nhiệt hạch nặng 20 triệu tấn xuống từ máy bay C124 , 30 cả .	Chúng tôi muốn cứu h-bomb vì thật là khó để xử lý nó .	neutral
+Vì vậy tôi không chắc tại sao nữa .	Tôi chắc chắn là lý do tại sao .	contradiction
+Vì vậy tôi không chắc tại sao nữa .	Tôi không biết vì sao anh ấy lại chuyển trường .	neutral
+Vì vậy tôi không chắc tại sao nữa .	Tôi không biết vì sao nó xảy ra .	entailment
+Đây là Fannie Flono , và cô ấy đã lớn lên ở Ag - Augusta , GA , và cô ấy sẽ nói về một số câu chuyện từ thời thơ ấu của cô ấy .	Fannie Flono đã phải lên lịch lại và không thể kể cho chúng tôi nghe bất kỳ câu chuyện nào ngày hôm nay .	contradiction
+Đây là Fannie Flono , và cô ấy đã lớn lên ở Ag - Augusta , GA , và cô ấy sẽ nói về một số câu chuyện từ thời thơ ấu của cô ấy .	Fannie Flono ở đây và cô ấy sẽ nói chuyện với chúng tôi về những câu chuyện thời thơ ấu của cô ấy khi lớn lên ở Augusta , GA .	entailment
+Đây là Fannie Flono , và cô ấy đã lớn lên ở Ag - Augusta , GA , và cô ấy sẽ nói về một số câu chuyện từ thời thơ ấu của cô ấy .	Hôm nay Fannie Flono đã có thể trò chuyện với chúng ta mặc dù lịch làm việc rất bận rộn của cô ấy .	neutral
+Và tôi đã đặt uh , năm sự tách rời khỏi U2 .	Tôi đã xử lý U2 .	entailment
+Và tôi đã đặt uh , năm sự tách rời khỏi U2 .	Tôi không làm việc gì dính dáng đến U2 cả .	contradiction
+Và tôi đã đặt uh , năm sự tách rời khỏi U2 .	Tôi đã làm việc với các đội của U2 mỗi ngày trong bốn mươi năm .	neutral
+Tôi là người duy nhất mà uh , từng điều hành các bộ điều chỉnh cho ờ , cho phần thử nghiệm trong các buồng áp lực cỡ nhỏ .	Tôi không thích là người duy nhất điều khiển các máy điều chỉnh dùng trong các bài kiểm tra .	neutral
+Tôi là người duy nhất mà uh , từng điều hành các bộ điều chỉnh cho ờ , cho phần thử nghiệm trong các buồng áp lực cỡ nhỏ .	Các thử nghiệm đã được thực hiện trong các phòng thu nhỏ trên cao .	entailment
+Tôi là người duy nhất mà uh , từng điều hành các bộ điều chỉnh cho ờ , cho phần thử nghiệm trong các buồng áp lực cỡ nhỏ .	Có một vài người trong chúng tôi điều hành các máy điều chỉnh để kiểm tra .	contradiction
+Tôi vâng , Thượng Sỹ , đã nghỉ hưu , như Rick đã nói .	Tôi vẫn đang làm việc cho đến ngày nay .	contradiction
+Tôi vâng , Thượng Sỹ , đã nghỉ hưu , như Rick đã nói .	Tôi đã về hưu vào năm 2002 .	neutral
+Tôi vâng , Thượng Sỹ , đã nghỉ hưu , như Rick đã nói .	Rick nói với bạn tôi đã nghỉ hưu .	entailment
+Có một số dự đoán về dòng tiền trên bàn làm việc của tôi và , ừm , nó dành cho một khách hàng tên Cutty .	Khách hàng có tên Cutty kiếm được $ 10000 một tháng .	neutral
+Có một số dự đoán về dòng tiền trên bàn làm việc của tôi và , ừm , nó dành cho một khách hàng tên Cutty .	Có một khách hàng tên là Cutty .	entailment
+Có một số dự đoán về dòng tiền trên bàn làm việc của tôi và , ừm , nó dành cho một khách hàng tên Cutty .	Chúng tôi không có bất kỳ khách hàng nào là Cutty .	contradiction
+Cô gái có thể giúp tôi khắp cả thị trấn .	Cô gái tôi cần sự giúp đỡ sống một cách xa vời .	entailment
+Cô gái có thể giúp tôi khắp cả thị trấn .	Cô gái ai sẽ là người giúp đỡ tôi là 5 dặm .	neutral
+Cô gái có thể giúp tôi khắp cả thị trấn .	Không ai có thể giúp tôi .	contradiction
+Nhưng chúng tôi lúc đó chia thành hai nhóm kiểu như ai là kẻ làm lụng kiếm tiền và ai là kẻ ngồi nhà ăn bám , việc này cứ kiểu như--	Tất cả đều đồng ý rằng tất cả họ đều làm việc trong các lĩnh vực .	contradiction
+Nhưng chúng tôi lúc đó chia thành hai nhóm kiểu như ai là kẻ làm lụng kiếm tiền và ai là kẻ ngồi nhà ăn bám , việc này cứ kiểu như--	Họ không thể đồng ý về ai làm ruộng và ai làm trong nhà .	entailment
+Nhưng chúng tôi lúc đó chia thành hai nhóm kiểu như ai là kẻ làm lụng kiếm tiền và ai là kẻ ngồi nhà ăn bám , việc này cứ kiểu như--	Họ không thể đồng ý ai sẽ làm việc trong cánh đồng bông và ai nên lau sàn nhà .	neutral
+Hôm nay anh ấy sẽ nói chuyện với chúng ta về Third SS , U2 Quick và Blackbird .	Anh ấy đã quyết định không nói chuyện nữa .	contradiction
+Hôm nay anh ấy sẽ nói chuyện với chúng ta về Third SS , U2 Quick và Blackbird .	Anh ta nói về ba chiếc tàu ngầm khác nhau .	neutral
+Hôm nay anh ấy sẽ nói chuyện với chúng ta về Third SS , U2 Quick và Blackbird .	Anh ta nói về ba điều .	entailment
+Ý tôi là họ chỉ có 5 đứa con nhưng một đứa đã mất rồi .	Tất cả con cái của họ đều sống sót .	contradiction
+Ý tôi là họ chỉ có 5 đứa con nhưng một đứa đã mất rồi .	Một đứa trẻ đã chết trong số năm đứa trẻ .	entailment
+Ý tôi là họ chỉ có 5 đứa con nhưng một đứa đã mất rồi .	Đứa trẻ đã chết được sinh ra ốm yếu .	neutral
+Và , đương nhiên , Androv Gromikov không trả lời điều gì , nhưng chúng tôi có tất cả các thông tin từ những thước phim do U2 cung cấp .	U2 quay rất nhiều phim .	entailment
+Và , đương nhiên , Androv Gromikov không trả lời điều gì , nhưng chúng tôi có tất cả các thông tin từ những thước phim do U2 cung cấp .	U2 lấy rất nhiều tấm phim từ dưới nước .	neutral
+Và , đương nhiên , Androv Gromikov không trả lời điều gì , nhưng chúng tôi có tất cả các thông tin từ những thước phim do U2 cung cấp .	Chúng tôi không có cảnh quay , nên chúng tôi phải đoán .	contradiction
+Cô ấy nói chỉ có mình cô ấy là rơi nước mắt và cô ấy nói là , sau đó cô ấy nói rằng Joe xuất hiện trên hiên nhà .	Khi cô nói với anh ấy đi lên hiên nhà , đôi mắt cô đã ngấn lệ .	entailment
+Cô ấy nói chỉ có mình cô ấy là rơi nước mắt và cô ấy nói là , sau đó cô ấy nói rằng Joe xuất hiện trên hiên nhà .	Cô nhanh chóng lau đi những giọt nước mắt sau khi đẩy Joe ra khỏi hiên nhà .	contradiction
+Cô ấy nói chỉ có mình cô ấy là rơi nước mắt và cô ấy nói là , sau đó cô ấy nói rằng Joe xuất hiện trên hiên nhà .	Cô rất vui khi thấy Joe đến nỗi cô bắt đầu khóc .	neutral
+Ngay cả khi chiếc máy bay đang cháy , thì tại sao , ừ sao nó lại bị cháy và có thể tan chảy xuyên qua một thành phần bằng chì để bức xạ bị rò rỉ .	Bức xạ có thể có trong một đám cháy .	neutral
+Ngay cả khi chiếc máy bay đang cháy , thì tại sao , ừ sao nó lại bị cháy và có thể tan chảy xuyên qua một thành phần bằng chì để bức xạ bị rò rỉ .	Bức xạ sẽ rò rỉ ra từ một thành phần chì sau khi máy bay bị đốt cháy .	entailment
+Ngay cả khi chiếc máy bay đang cháy , thì tại sao , ừ sao nó lại bị cháy và có thể tan chảy xuyên qua một thành phần bằng chì để bức xạ bị rò rỉ .	Bức xạ sẽ không bị rò rỉ trong một đám cháy .	contradiction
+Đây là Trung sĩ trưởng Clem Francis , đã nghỉ hưu từ Không quân Hoa Kỳ .	Người đứng đầu đã nghỉ hưu từ Không quân Hoa Kỳ .	entailment
+Đây là Trung sĩ trưởng Clem Francis , đã nghỉ hưu từ Không quân Hoa Kỳ .	Bếp trưởng vừa mới nghỉ hưu cách đây vài tuần .	neutral
+Đây là Trung sĩ trưởng Clem Francis , đã nghỉ hưu từ Không quân Hoa Kỳ .	Không quân Mỹ chỉ mới bắt đầu công việc của mình trong tuần này .	contradiction
+Vâng , có lúc có hai hoặc ba máy bay đến trong một tuần và tôi không biết họ đang bay đi đâu .	Có hơn một phi cơ đến mỗi tuần .	entailment
+Vâng , có lúc có hai hoặc ba máy bay đến trong một tuần và tôi không biết họ đang bay đi đâu .	Lưu lượng máy bay tăng lên rất rắc rối .	neutral
+Vâng , có lúc có hai hoặc ba máy bay đến trong một tuần và tôi không biết họ đang bay đi đâu .	Không bao giờ có máy bay nào bay đến .	contradiction
+Họ đã luyện tập trong bộ com lê đầy áp lực và mất một thời gian nếu bạn mặc bộ quần áo đầy áp lực .	Phải mất đến ba tháng để hoàn thành khóa đào tạo về việc sử dụng bộ com lê áp lực đầy đủ .	neutral
+Họ đã luyện tập trong bộ com lê đầy áp lực và mất một thời gian nếu bạn mặc bộ quần áo đầy áp lực .	Đào tạo để sử dụng một bộ đồ áp lực tốn nhiều thời gian .	entailment
+Họ đã luyện tập trong bộ com lê đầy áp lực và mất một thời gian nếu bạn mặc bộ quần áo đầy áp lực .	Chúng tôi có thể giúp bạn luyện tập để mặc bộ com lê áp lực vào cuối ngày .	contradiction
+Tôi muốn nói rằng không có nguy cơ nào xảy ra với quả bom vì nó sẽ không nổ tung , bất kể nó khó đến thế nào .	Quả bom đã bị ngừng kích hoạt bởi phi công .	neutral
+Tôi muốn nói rằng không có nguy cơ nào xảy ra với quả bom vì nó sẽ không nổ tung , bất kể nó khó đến thế nào .	Quả bom không có cơ hội nổ tung .	entailment
+Tôi muốn nói rằng không có nguy cơ nào xảy ra với quả bom vì nó sẽ không nổ tung , bất kể nó khó đến thế nào .	Có một nguy cơ lớn là bom sẽ nổ .	contradiction
+Nó trông đúng như điều tôi đang cố gắng thực hiện .	Tôi không chắc điều này trông như thế nào đối với bạn .	contradiction
+Nó trông đúng như điều tôi đang cố gắng thực hiện .	Rõ ràng là tôi đang cố gắng làm điều này .	entailment
+Nó trông đúng như điều tôi đang cố gắng thực hiện .	Tôi đang cố hoàn thành dự án của mình vào tuần tới .	neutral
+Nhưng dù sao đi nữa , những con vật sẽ bị mất toàn bộ thời gian , đặc biệt là những con dê .	Những con dê trốn thoát khỏi chuồng mỗi ngày .	neutral
+Nhưng dù sao đi nữa , những con vật sẽ bị mất toàn bộ thời gian , đặc biệt là những con dê .	Những con dê thường xuyên trốn thoát .	entailment
+Nhưng dù sao đi nữa , những con vật sẽ bị mất toàn bộ thời gian , đặc biệt là những con dê .	Những con dê được giữ an toàn .	contradiction
+Cánh cửa bị khoá khi chúng tôi bước vào .	Tất cả các cửa đều mở .	contradiction
+Cánh cửa bị khoá khi chúng tôi bước vào .	Chúng tôi có chìa khóa .	neutral
+Cánh cửa bị khoá khi chúng tôi bước vào .	Chúng tôi đã đi vào mặc dù cửa đã bị khóa .	entailment
+Nên tôi đã phải lấy cái tổng thể và cố gắng hình dung ra như thế đó .	Tôi tự tin rằng con số tổng là tất cả những gì tôi cần để giải quyết việc này .	neutral
+Nên tôi đã phải lấy cái tổng thể và cố gắng hình dung ra như thế đó .	Tôi không biết phải làm gì với chỉ tổng số xin vui lòng cho tôi biết thêm chi tiết để tìm ra mớ hỗn độn này .	contradiction
+Nên tôi đã phải lấy cái tổng thể và cố gắng hình dung ra như thế đó .	Tôi sẽ tính toán nó dựa trên tổng số .	entailment
+Anh ấy đến , mở cửa ra và tôi nhớ rằng đã nhìn ra phía sau và nhìn thấy vẻ mặt của anh ấy , và tôi có thể biết được anh ấy đang thất vọng .	Anh ấy rất mừng và bùng nổ với niềm vui rằng anh ấy đã bật cánh cửa ra khỏi khung của nó .	contradiction
+Anh ấy đến , mở cửa ra và tôi nhớ rằng đã nhìn ra phía sau và nhìn thấy vẻ mặt của anh ấy , và tôi có thể biết được anh ấy đang thất vọng .	Anh ấy đang cố không làm chúng tôi cảm thấy tội lỗi nhưng chúng tôi biết chúng tôi đã gây ra rắc rối cho anh ấy .	neutral
+Anh ấy đến , mở cửa ra và tôi nhớ rằng đã nhìn ra phía sau và nhìn thấy vẻ mặt của anh ấy , và tôi có thể biết được anh ấy đang thất vọng .	Chỉ khi nhìn vào khuôn mặt của anh ấy khi anh ấy bước qua cánh cửa tôi mới biết anh ấy đã bị bỏ rơi .	entailment
+Vậy nên , tôi không có bất cứ câu chuyện cụ thể nào .	Tôi không có một cửa hàng cụ thể .	entailment
+Vậy nên , tôi không có bất cứ câu chuyện cụ thể nào .	Tôi có 1 cửa hàng riêng .	contradiction
+Vậy nên , tôi không có bất cứ câu chuyện cụ thể nào .	Có rất nhiều cửa hàng .	neutral
+Và đây , anh ấy chẳng bao giờ thật sự làm điều gì đó cho mình .	Anh ấy nhận được rất nhiều sự giúp đỡ .	entailment
+Và đây , anh ấy chẳng bao giờ thật sự làm điều gì đó cho mình .	Anh ta được giúp đỡ với bữa ăn và quần áo .	neutral
+Và đây , anh ấy chẳng bao giờ thật sự làm điều gì đó cho mình .	Anh ấy rất độc lập .	contradiction
+Thế là tôi kiểu như là , Ôi trời ơi , và Ramona đang đứng ở đó .	Ramona nằm cuộn tròn trên nền nhà trong tư thế bào thai .	contradiction
+Thế là tôi kiểu như là , Ôi trời ơi , và Ramona đang đứng ở đó .	Ramona lặng lẽ phán xét tôi .	neutral
+Thế là tôi kiểu như là , Ôi trời ơi , và Ramona đang đứng ở đó .	Ramona thẳng đứng người trước sự kinh ngạc của tôi .	entailment
+Và thực tế là cô ấy thật nhẹ nhàng !	Cô ấy ăn rất nhiều đồ ăn , nhưng vẫn giữ được trọng lượng của mình .	neutral
+Và thực tế là cô ấy thật nhẹ nhàng !	Cô ấy không nặng chút nào .	entailment
+Và thực tế là cô ấy thật nhẹ nhàng !	Cô ấy rất hạnh phúc .	contradiction
+Tôi không biết liệu anh ta có ở lại Augusta sau đó hay không .	Anh ta vẫn tiếp tục sống ở Augusta ngay cả sau vụ tấn công .	neutral
+Tôi không biết liệu anh ta có ở lại Augusta sau đó hay không .	Anh tiếp tục sống ở Augusta .	entailment
+Tôi không biết liệu anh ta có ở lại Augusta sau đó hay không .	Anh ta rời khỏi Augusta ngay lập tức .	contradiction
+Tất cả những điều chúng tôi làm , họ chưa bao giờ nói với chúng tôi về bất cứ nơi nào họ đến , thậm chí khi họ rời khỏi trại đi đến một nơi nào khác trong một thời gian .	Tôi chưa bao giờ hỏi họ đang đi đâu .	neutral
+Tất cả những điều chúng tôi làm , họ chưa bao giờ nói với chúng tôi về bất cứ nơi nào họ đến , thậm chí khi họ rời khỏi trại đi đến một nơi nào khác trong một thời gian .	Họ luôn cho chúng tôi biết họ đang ở đâu và họ đi đâu .	contradiction
+Tất cả những điều chúng tôi làm , họ chưa bao giờ nói với chúng tôi về bất cứ nơi nào họ đến , thậm chí khi họ rời khỏi trại đi đến một nơi nào khác trong một thời gian .	Họ không bao giờ nói cho chúng tôi biết họ sẽ đi đâu .	entailment

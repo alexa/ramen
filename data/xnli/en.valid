@@ -1,0 +1,100 @@
+premise	hypo	label
+And he said , Mama , I 'm home .	He called his mom as soon as the school bus dropped him off .	neutral
+And he said , Mama , I 'm home .	He didn 't say a word .	contradiction
+And he said , Mama , I 'm home .	He told his mom he had gotten home .	entailment
+I didn 't know what I was going for or anything , so was to report to a designated place in Washington .	I have never been to Washington so when I was assigned there I got lost trying to find the place .	neutral
+I didn 't know what I was going for or anything , so was to report to a designated place in Washington .	I knew exactly what I needed to do as I marched to Washington .	contradiction
+I didn 't know what I was going for or anything , so was to report to a designated place in Washington .	I was not quite certain what I was going to do so I went to Washington where I was assigned to report .	entailment
+He didn 't get to go .	He was the first to be invited and enjoyed the experience .	contradiction
+He didn 't get to go .	He wasn 't allowed to attend .	entailment
+He didn 't get to go .	He wasn 't allowed to go to the museum 's opening .	neutral
+And I was like OK , and that was it !	After I said yes , it ended .	entailment
+And I was like OK , and that was it !	I said no and it dragged on and on .	contradiction
+And I was like OK , and that was it !	When I said yes , we decided that we would get married that day .	neutral
+I was just there just trying to figure it out .	I understood it well from the beginning .	contradiction
+I was just there just trying to figure it out .	I was trying to understand where the money went .	neutral
+I was just there just trying to figure it out .	I was trying to understand .	entailment
+And , uh , they kind of actually stopped visiting the family because they were just , just determined that they were going to be white .	They continued to visit every day .	contradiction
+And , uh , they kind of actually stopped visiting the family because they were just , just determined that they were going to be white .	They didn 't visit the family anymore .	entailment
+And , uh , they kind of actually stopped visiting the family because they were just , just determined that they were going to be white .	They stopped visiting the family when the racial tensions started .	neutral
+And Granny used to tell the story about how her sister and her sister 's husband decided that they were going to move to the city , to Augusta , and pass for white .	Granny 's Sister was white and moved to Texas .	contradiction
+And Granny used to tell the story about how her sister and her sister 's husband decided that they were going to move to the city , to Augusta , and pass for white .	Granny 's sister was not white .	entailment
+And Granny used to tell the story about how her sister and her sister 's husband decided that they were going to move to the city , to Augusta , and pass for white .	Granny 's sister wasn 't white but she wanted to be so she could go to school .	neutral
+Michael Santo of , of Firewell and Company , of Buffalo , NY , they was the one that uh , manufactured , uh , invented the high O2 regulator before that they built fire control on the stove well .	Santo lived in New York and worked on the high O2 regulator .	entailment
+Michael Santo of , of Firewell and Company , of Buffalo , NY , they was the one that uh , manufactured , uh , invented the high O2 regulator before that they built fire control on the stove well .	Santo specialized in fire safety because it was an issue that was dear to him .	neutral
+Michael Santo of , of Firewell and Company , of Buffalo , NY , they was the one that uh , manufactured , uh , invented the high O2 regulator before that they built fire control on the stove well .	Santo worked for Disney and operated the tea cups .	contradiction
+But he was , you know , in a lot of ways , just like a plantation owner 's son because he was the son of this guy who owned a lot of property .	His dad had never owned anything in his life .	contradiction
+But he was , you know , in a lot of ways , just like a plantation owner 's son because he was the son of this guy who owned a lot of property .	His dad owned 2000 acres of farmland .	neutral
+But he was , you know , in a lot of ways , just like a plantation owner 's son because he was the son of this guy who owned a lot of property .	His dad owned a lot of property .	entailment
+But my job was to put parachutes on it and life preservers when we would load it and start to an overseas location .	I didn 't have a job so I just kept all the boxes at home .	contradiction
+But my job was to put parachutes on it and life preservers when we would load it and start to an overseas location .	I shipped the boxes to Japan .	neutral
+But my job was to put parachutes on it and life preservers when we would load it and start to an overseas location .	I shipped them out .	entailment
+Now that 's how , uh , I stay buckled in .	I made sure the buckle was on tight so I would be safe .	neutral
+Now that 's how , uh , I stay buckled in .	That is exactly how I was unhooked .	contradiction
+Now that 's how , uh , I stay buckled in .	That is precisely how I was fastened in .	entailment
+And he was a philanderer , an d oh yeah , he was like out there . And , ah , so , you know , I didn 't like him , but anyway those are my stories .	He was so faithful and nice .	contradiction
+And he was a philanderer , an d oh yeah , he was like out there . And , ah , so , you know , I didn 't like him , but anyway those are my stories .	I hated him because he was so arrogant .	neutral
+And he was a philanderer , an d oh yeah , he was like out there . And , ah , so , you know , I didn 't like him , but anyway those are my stories .	I wasn 't a fan of his .	entailment
+When I pull , when he pulls the canopy for me to start getting him out , he points to two instruments on the left side of the aircraft that had actually melted during the flight .	All of the instruments in the aircraft were intact .	contradiction
+When I pull , when he pulls the canopy for me to start getting him out , he points to two instruments on the left side of the aircraft that had actually melted during the flight .	It was difficult to get him out .	neutral
+When I pull , when he pulls the canopy for me to start getting him out , he points to two instruments on the left side of the aircraft that had actually melted during the flight .	There were instruments in the aircraft that melted .	entailment
+And , she didn 't really understand .	Alas , she was not able to understand clearly due to a language barrier .	neutral
+And , she didn 't really understand .	Indeed , she did not comprehend .	entailment
+And , she didn 't really understand .	She knew exactly what we were talking about .	contradiction
+Maybe she told everyone else and I wasn 't paying attention at that particular time .	I didn 't hear her when she told everyone else .	entailment
+Maybe she told everyone else and I wasn 't paying attention at that particular time .	I heard everything she said .	contradiction
+Maybe she told everyone else and I wasn 't paying attention at that particular time .	I was talking to someone else at the time .	neutral
+Only lost two , three aircraft while we was there , and , uh , test phase .	A couple of aircraft got lost because of the weather .	neutral
+Only lost two , three aircraft while we was there , and , uh , test phase .	A couple of aircraft were lost .	entailment
+Only lost two , three aircraft while we was there , and , uh , test phase .	We 've never lost an aircraft .	contradiction
+I need you to do something for me .	I don 't need any help .	contradiction
+I need you to do something for me .	It is a big job that I need done .	neutral
+I need you to do something for me .	There is something I need done .	entailment
+Different , totally different types parachutes and in an bird that flies , uh , three times the speed of sound , over 22,000 miles an hour .	It flies over 20,000 miles an hour .	entailment
+Different , totally different types parachutes and in an bird that flies , uh , three times the speed of sound , over 22,000 miles an hour .	It only travels 10,000 miles an hour .	contradiction
+Different , totally different types parachutes and in an bird that flies , uh , three times the speed of sound , over 22,000 miles an hour .	The jet flies 20,000 miles an hour .	neutral
+It was , uh , which we , uh , had Rudolph Anderson in a , a formulation of three U2 's .	Rudolph Anderson was nowhere to be found , so we only had one U2 's .	contradiction
+It was , uh , which we , uh , had Rudolph Anderson in a , a formulation of three U2 's .	Rudolph Anderson was part of three U2 's .	entailment
+It was , uh , which we , uh , had Rudolph Anderson in a , a formulation of three U2 's .	We were blessed to have Rudolph Anderson help with the U2 's .	neutral
+She was still in there .	She was gone without a trace .	contradiction
+She was still in there .	She was still in the vicinity .	entailment
+She was still in there .	We thought she left but she remained .	neutral
+Also , oh , let me go through this .	I don 't need to deal with that .	contradiction
+Also , oh , let me go through this .	I will look through this .	entailment
+Also , oh , let me go through this .	I 'll look through these reports .	neutral
+But all of a sudden , we was called out to look at what was flying .	We were supposed to look at the flying plane .	neutral
+But all of a sudden , we was called out to look at what was flying .	We were supposed to look at what was flying .	entailment
+But all of a sudden , we was called out to look at what was flying .	We were told not to look outside .	contradiction
+He would tear the , the paper up and put it in the sand , ashtray sand , set it on a fire and burn it , and then stir the ashes up like that .	He was too afraid to burn anything so he just flushed it .	contradiction
+He would tear the , the paper up and put it in the sand , ashtray sand , set it on a fire and burn it , and then stir the ashes up like that .	He would burn the paper .	entailment
+He would tear the , the paper up and put it in the sand , ashtray sand , set it on a fire and burn it , and then stir the ashes up like that .	He would write a dream on the paper and then burn it .	neutral
+Um , You need to call Ramona at Concord , mind you she 's at an office , actually she 's in a client , all the way across town , we 're in Monroe , she 's in Concord .	Ramona has lived in Concord all her life .	neutral
+Um , You need to call Ramona at Concord , mind you she 's at an office , actually she 's in a client , all the way across town , we 're in Monroe , she 's in Concord .	Ramona has never been to Concord .	contradiction
+Um , You need to call Ramona at Concord , mind you she 's at an office , actually she 's in a client , all the way across town , we 're in Monroe , she 's in Concord .	Ramona is located in Concord .	entailment
+That 's kind of unique in that I , uh , spent , uh , about 16 years of my career in Special Activities .	I was in Special Activities for years .	entailment
+That 's kind of unique in that I , uh , spent , uh , about 16 years of my career in Special Activities .	I 've never had a job .	contradiction
+That 's kind of unique in that I , uh , spent , uh , about 16 years of my career in Special Activities .	My favorite job was in Special Activities .	neutral
+I think that 's why I remember that .	I didn 't remember it at all .	contradiction
+I think that 's why I remember that .	That 's probably the reason I remembered his name .	neutral
+I think that 's why I remember that .	That 's probably why I recalled that .	entailment
+And it makes you feel just awful .	It makes you feel great .	contradiction
+And it makes you feel just awful .	It makes you feel horrible .	entailment
+And it makes you feel just awful .	You feel better after an hour .	neutral
+You don 't have to stay there .	You can go home if you want to .	neutral
+You don 't have to stay there .	You can leave .	entailment
+You don 't have to stay there .	You need to stay in that exact spot !	contradiction
+That was , that was a pretty scary day .	It was a relaxing day .	contradiction
+That was , that was a pretty scary day .	It was really scary when the tornado came into town .	neutral
+That was , that was a pretty scary day .	That day really scared me .	entailment
+Uh , well it 's , uh , the speeds got faster , faster , and faster until we deployed overseas .	It kept getting faster .	entailment
+Uh , well it 's , uh , the speeds got faster , faster , and faster until we deployed overseas .	It seemed to take forever .	contradiction
+Uh , well it 's , uh , the speeds got faster , faster , and faster until we deployed overseas .	The speed was making me nervous .	neutral
+So , well I , uh , anyway , uh , uh , this is the three , uh , U2 pilots that , uh , President Kennedy 's office in Washington with General May .	General May and the pilots had a great time visiting the office .	neutral
+So , well I , uh , anyway , uh , uh , this is the three , uh , U2 pilots that , uh , President Kennedy 's office in Washington with General May .	General May never went to President Kennedy 's office .	contradiction
+So , well I , uh , anyway , uh , uh , this is the three , uh , U2 pilots that , uh , President Kennedy 's office in Washington with General May .	This is General May and three U2 pilots at President Kennedy 's office .	entailment
+Before you give me a spanking , why don 't you just let me have one big glass of chocolate milk first ?	I can 't drink milk .	contradiction
+Before you give me a spanking , why don 't you just let me have one big glass of chocolate milk first ?	I would like a glass of chocolate milk .	entailment
+Before you give me a spanking , why don 't you just let me have one big glass of chocolate milk first ?	I 'd love to drink some chocolate milk and relax a bit since I know i messed up .	neutral
+And then once you get everything entered you can go on from there .	You can continue after you enter everything .	entailment
+And then once you get everything entered you can go on from there .	You can continue once you enter the information into the database .	neutral
+And then once you get everything entered you can go on from there .	You should stop right now .	contradiction
