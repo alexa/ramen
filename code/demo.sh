@@ -60,3 +60,4 @@ echo "initialize target model"
 python utils/init_weight.py --src_vocab $VOCAB_PATH/bert-base-cased-vocab.txt --src_model $PRETRAINED_PATH/pytorch_model.bin --prob $ALIGN_PATH/para.en-$lg.pth --tgt_model $TGT_INIT/pytorch_model.bin --tgt_vocab $VOCAB_PATH/$lg-vocab.txt
 # copy config file
 cp $PRETRAINED_PATH/bert-base-cased-config.json $TGT_INIT/config.json
+# NOTE: you have to change the vovab_size manually in $TGT_INIT/config.json file 
